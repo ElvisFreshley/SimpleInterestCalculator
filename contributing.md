@@ -1,7 +1,7 @@
 <h1>Contributing</h1> <br>
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:<br>
-Reporting a bug<br>
-Discussing the current state of the code<br>
-Submitting a fix<br>
-Proposing new features<br>
-Becoming a maintainer<br>
+<ol>Reporting a bug<br>
+<ol>Discussing the current state of the code<br>
+<ol>Submitting a fix<br>
+<ol>Proposing new features<br>
+<ol>Becoming a maintainer<br>
